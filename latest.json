@@ -2,11 +2,11 @@
   "product": "ProduTime",
   "channel": "stable",
   "latest": {
-    "version": "1.7.9",
-    "url": "https://github.com/georgekgr12/produtime-releases/releases/download/v1.7.9/ProduTime-Setup-Freemium-x64.exe",
-    "releaseNotesUrl": "https://github.com/georgekgr12/produtime-releases/releases/tag/v1.7.9",
+    "version": "1.8.2",
+    "url": "https://github.com/georgekgr12/produtime-releases/releases/download/v1.8.2/ProduTime-Setup-1.8.2-Freemium-x64.exe",
+    "releaseNotesUrl": "https://github.com/georgekgr12/produtime-releases/releases/tag/v1.8.2",
     "mandatory": false,
-    "sha256": "f83c46da5a7f87f991b112f1bf80c7b590a03bd87f734b874c33ffdb79698315",
-    "fileSize": 115744218
+    "sha256": "fae628a30977f25a6cfa1e576ad6a663ef6dc7682c18cf57dbf2691fb9f018c5",
+    "fileSize": 115766825
   }
 }
